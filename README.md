@@ -1,4 +1,4 @@
-### Hi there 👋
+<p align="center">Hi there 👋</p>
 
 <!--
 **rafaelongo45/rafaelongo45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+  <img src="https://c.tenor.com/MRCIli40TYoAAAAi/under-construction90s-90s.gif" width="80" height="80" />
+</p>
