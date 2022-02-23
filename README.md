@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 I'm from Rio de Janeiro, Brasil. Currently studying to become a full-stack developer. 
 
 
-<h2>
-📅 Hobbies</h2>
+
+<h2>📅 Hobbies</h2>
 <img align="right" width="300" height="200" src="https://i.pinimg.com/originals/ec/e0/71/ece0713676b92973b1cebcbcf6996b1e.gif">
 
 :nerd_face: Watch anime 
@@ -31,8 +31,6 @@ I'm from Rio de Janeiro, Brasil. Currently studying to become a full-stack devel
 :tv: TV Shows
 
 :japanese_ogre: I'm also trying to learn japanese 
-
-
 
 
 
