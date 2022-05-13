@@ -22,9 +22,9 @@ I'm from Rio de Janeiro, Brasil. Currently studying to become a full-stack devel
 <h2>📅 Hobbies</h2>
 <img align="right" width="300" height="200" src="https://i.pinimg.com/originals/ec/e0/71/ece0713676b92973b1cebcbcf6996b1e.gif">
 
-:nerd_face: Watch anime 
+:nerd_face: Watching anime 
 
-:open_book: Read manga 
+:open_book: Reading manga 
 
 :video_game: Games and stuff 
 
