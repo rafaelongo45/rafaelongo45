@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <h1>Hi 👋, I'm Rafael </h1>
 
-I'm from Rio de Janeiro, Brasil. Currently studying to become a full-stack developer. 
+I'm a full stack developer from Rio de Janeiro, Brazil.
 
 
 
