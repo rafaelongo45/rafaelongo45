@@ -34,12 +34,3 @@ I'm a full stack developer from Rio de Janeiro, Brazil.
 
 
 
-<h1>
-  Under Construction
-</h1>
-<p align="center">
-  <img src="https://c.tenor.com/MRCIli40TYoAAAAi/under-construction90s-90s.gif" width="80" height="80" />
-</p>
-
-
-
