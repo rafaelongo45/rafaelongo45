@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 I'm a full stack developer from Rio de Janeiro, Brazil.
 
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" href="https://www.linkedin.com/in/rafaelongo45/" target="_blank"> <img/>
 
 <h2>📅 Hobbies</h2>
 <img align="right" width="300" height="200" src="https://i.pinimg.com/originals/ec/e0/71/ece0713676b92973b1cebcbcf6996b1e.gif">
