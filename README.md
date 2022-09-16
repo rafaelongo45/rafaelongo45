@@ -15,12 +15,10 @@ Here are some ideas to get you started:
 
 <h1>Hi 👋, I'm Rafael </h1> 
 
-<p> I'm a full stack developer from Rio de Janeiro, Brazil.</p>
-<a href="https://www.linkedin.com/in/rafaelongo45/" target="_blank"><img style="width:90px"src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" > <img/>
- </a>
+<p> I'm a Full Stack Developer from Rio de Janeiro, Brazil. I'm currently learning react native and working on a project that helps users organize important stuff in their cellphones (To Be Announced!). I'm also trying to learn japanese with games!</p>
+<p>As a personal project I hope to use my abilities as a developer to create an app that helps other people learn japanese as well! </p>
 
-
-<h2>📅 Hobbies</h2>
+<h2>:partying_face: Hobbies</h2>
 <img align="right" width="300" height="200" src="https://i.pinimg.com/originals/ec/e0/71/ece0713676b92973b1cebcbcf6996b1e.gif">
 
 :nerd_face: Watching anime 
@@ -33,5 +31,14 @@ Here are some ideas to get you started:
 
 :japanese_ogre: I'm also trying to learn japanese 
 
+<h2>:blue_book: Contact</h2>
+
+<a href="https://www.linkedin.com/in/rafaelongo45/" target="_blank">
+ <img style="width:90px; height:25px"src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://mail.google.com/mail/u/0/?fs=1&to=rafaelongo45@gmail.com" target="_blank">
+ <img style="width:90px; height:25px"src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 
