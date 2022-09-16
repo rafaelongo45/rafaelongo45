@@ -13,9 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1>Hi 👋, I'm Rafael </h1>
+<h1>Hi 👋, I'm Rafael </h1> 
 
-I'm a full stack developer from Rio de Janeiro, Brazil.
+<p> I'm a full stack developer from Rio de Janeiro, Brazil.</p>
+<a href="https://www.linkedin.com/in/rafaelongo45/" target="_blank"><img style="width:90px"src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" > <img/>
+ </a>
 
 
 <h2>📅 Hobbies</h2>
