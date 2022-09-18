@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <h1>Hi 👋, I'm Rafael </h1> 
 
-<p> I'm a Full Stack Developer from Rio de Janeiro, Brazil. I'm currently learning react native and working on a project that helps users organize important stuff on their cellphones (to be announced). I'm also trying to learn japanese with games!</p>
+<p> I'm a Full Stack Developer from Rio de Janeiro, Brazil. I'm currently learning react native and working on a project that helps users organize important stuff on their cellphones. I'm also trying to learn japanese with games!</p>
 <p>As a personal project I hope to use my abilities as a developer to create an app that helps other people learn japanese as well! </p>
 
 <h2>:partying_face: Hobbies</h2>
